@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumalya007/leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Sumalya007/leetcodeProblems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sumalya007/leetcodeProblems/tree/master/0217-contains-duplicate) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sumalya007/leetcodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,4 +70,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sumalya007/leetcodeProblems/tree/master/0069-sqrtx) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sumalya007/leetcodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
